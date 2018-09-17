@@ -102,7 +102,7 @@ CockroachDB (first stable relese)
 - Funciones son _first_ _class_ _citizens_: las funciones pueden ser pasadas como parámetros
 - Parámetros pasados siempre por _valor_
 - Punteros para pasar parámetros por _referencia_
-- GC
+- Garbage collector
 - "Semi” Orientado a objetos -> _Composition_
 - Interfaces
 - Built in Web Server
