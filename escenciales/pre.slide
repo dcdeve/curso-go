@@ -11,7 +11,7 @@ Septiembre 2018
 - Diseñado por Robert Griesemer, Rob Pike y Ken Thompson.
 - Predecesores? `C`.
 - `C++`? No.
-- Anunciado al mundo en 2009, en 2012 se estabiliza la API con la versión 1.0 . La versión actual es la 1.10.x, con cambios mínimos.
+- Anunciado al mundo en 2009, en 2012 se estabiliza la API con la versión 1.0 . La versión actual es la 1.11.x, con cambios mínimos.
 
 * Historia - el contexto en Google.
 
